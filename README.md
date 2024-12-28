@@ -24,7 +24,7 @@ npm run dev
 
 ## **License**
 
-Robot Animation is released under the MIT License. See the **[LICENSE](https://github.com/ant-vu/robot-animation/blob/main/LICENSE)** file for details.
+Robot Animation is released under the MIT License. See the **[LICENSE](https://github.com/ant-vu/robot-animation/blob/master/LICENSE)** file for details.
 
 ## **Author**
 
